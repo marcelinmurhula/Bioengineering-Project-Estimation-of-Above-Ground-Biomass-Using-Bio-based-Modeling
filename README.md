@@ -1,4 +1,4 @@
-# 🌳 Forest Biomass & Carbon Stock Analysis: PNKB Conservation Study
+# Forest Biomass & Carbon Stock Analysis: PNKB Conservation Study
 
 ## 📊 Scientific Research Project
 
