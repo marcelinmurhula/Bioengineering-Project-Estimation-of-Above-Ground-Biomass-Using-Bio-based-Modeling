@@ -1,6 +1,6 @@
 # Forest Biomass & Carbon Stock Analysis: PNKB Conservation Study
 
-## 📊 Scientific Research Project
+## Scientific Research Project
 
 **Estimating Above-Ground Biomass Using Advanced Allometric Modeling**
 
